@@ -10,7 +10,7 @@
 RUBY_BOX=1 ruby ./app_payment.rb  
 ```
 
--Output
+- Output
 ```bash
 
 
@@ -79,7 +79,7 @@ Hello Lucas! HOW ARE YOU?
 ruby ractor_example.rb 
 ```
 
--Output
+- Output
 ```bash
 #<Ractor::Port:0x00007c858c3e6460>: Olá Mundo em 2026-01-15 02:33:10 -0300
 #<Ractor::Port:0x00007c858c3e5da8>: Olá Mundo em 2026-01-15 02:33:10 -0300
